@@ -4,7 +4,7 @@
       <el-menu :default-openeds="['1', '3']" router="true">
         <el-submenu index="1">
           <template slot="title"
-            ><i class="el-icon-message"></i>导航一</template
+            ><i class="el-icon-message"></i>导航一一 </template
           >
           <el-menu-item-group>
             <template slot="title">分组一</template>
